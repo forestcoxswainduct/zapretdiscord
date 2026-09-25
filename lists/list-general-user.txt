@@ -1,0 +1,3 @@
+# Never leave this file empty
+domain.example.abc
+# forestcoxswainduct/zapretdiscord 800f6ae4e723
